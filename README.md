@@ -1,9 +1,8 @@
 ### Olá visitante (Hi there) 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jallapeno&show_icons=true&locale=pt-Br&layout=compact">
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">Clique aqui para aprender a criar uma imagem dessas</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Jallapeno&show_icons=true&theme=cobalt">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jallapeno&show_icons=true&locale=en&layout=compact">
 <!--
 **Jallapeno/Jallapeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
