@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Sass-C76494.svg?&logo=sass&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/Bootstrap-6B419A.svg?&logo=bootstrap&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-MySQL-blue?&logo=mysql&logoColor=white&style=flat&style=plastic" height="25"/>
+<img src="https://img.shields.io/badge/MongoDB-white.svg?&logo=mongodb&logoColor=green&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?&logo=github&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/GitLab-white.svg?&logo=gitlab&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/Bitbucket-white.svg?&logo=bitbucket&logoColor=blue&style=flat&style=plastic" height="25"/>
