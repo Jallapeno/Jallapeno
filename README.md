@@ -1,7 +1,16 @@
-### Olá visitante (Hi there) 👋
+## Hi there 👋
 
-## 💻 Skills
+<p align="center">
+<img src="https://yt3.ggpht.com/tAEB0gWtQ84vBD7AoRq6-4qFOrfpIBjvyDtioTT_kUAWT0ZoLQ84t69trdACpuJXj3TmbSJW5Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj">
+</p>
 
+## ⭐ GitHub Stats
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=Jallapeno&show_icons=true&theme=cobalt">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jallapeno&show_icons=true&locale=en&layout=compact&theme=cobalt">
+</p>
+
+## 💻 My Skills
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat&style=plastic" height="25"/>
@@ -25,11 +34,5 @@
 <img src="https://img.shields.io/badge/Bitbucket-white.svg?&logo=bitbucket&logoColor=blue&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-Git-FF4500?&logo=git&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&style=plastic&logo=visual-studio-code&logoColor=ffffff" height="25"/>
-</p>
-
-## ⭐ GitHub Stats
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jallapeno&show_icons=true&theme=cobalt">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jallapeno&show_icons=true&locale=en&layout=compact&theme=cobalt">
 </p>
 
