@@ -3,15 +3,16 @@
 <p align="justify">
 Me chamo Hytalo e este é um resumo do meu perfil no GitHub. Fique a vontade para entrar em contato comigo para uma troca de conhecimento e um networking a mais na lista.
 
-📬 - hytalo48@gmail.com
 
-🌲 - <a target="_blank" href="https://linktr.ee/hytalo.dart">Linketree</a> 
+🌐 - <a target="_blank" href="https://hydev.com.br/">Visite meu site potfólio</a>  
+
+📬 - hytalo48@gmail.com
 </p>
 <br>
 <h2 align="start"> ⭐ Status e Linguagens mais utilizadas </h2>
 <p align = "start">
-<img src="https://github-readme-stats.vercel.app/api?username=Jallapeno&show_icons=true&theme=cobalt">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jallapeno&show_icons=true&locale=en&layout=compact&theme=cobalt">
+<img src="https://github-readme-stats.vercel.app/api?username=Jallapeno&show_icons=true&theme=cobalt" height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jallapeno&show_icons=true&locale=en&layout=compact&theme=cobalt" height="180em">
 </p>
 <br>
 <h2 align="start"> 💻 Minhas skills </h2>
