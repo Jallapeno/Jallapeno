@@ -9,7 +9,7 @@ My name is Hytalo. This is my current profile on GitHub.
 📬 - 48hytalo@gmail.com
 </p>
 <br>
-<h2 align="start"> ⭐ Mu status level  </h2>
+<h2 align="start"> ⭐ My status level  </h2>
 <p align = "start">
 <img src="https://github-readme-stats.vercel.app/api?username=Jallapeno&show_icons=true&theme=cobalt" height="180em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jallapeno&show_icons=true&locale=en&layout=compact&theme=cobalt" height="180em">
