@@ -45,4 +45,4 @@ My name is Hytalo. This is my current profile on GitHub.
 <br>
 <h2 align="start">🐍 My snake repo game 🐍</h2>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/Jallapeno/snk/raw/output/github-contribution-grid-snake.svg)
