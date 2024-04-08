@@ -37,10 +37,8 @@ My name is Hytalo. This is my current profile on GitHub.
 <br>
 <h2>📖 Studying</h2>
 <p align="justify">
-<img src="https://img.shields.io/badge/Vue.js-35495E.svg?&logo=vuedotjs&logoColor=4FC08D&style=flat&style=plastic" height="25"/>
-<img src="https://img.shields.io/badge/React.js-20232A.svg?&logo=react&logoColor=61DAFB&style=flat&style=plastic" height="25"/>
-<img src="https://img.shields.io/badge/Flutter-45BFF3.svg?&logo=flutter&logoColor=03589C&style=flat&style=plastic" height="25"/>
-<img src="https://img.shields.io/badge/Python-1E415E.svg?&logo=python&logoColor=white&style=flat&style=plastic" height="25"/>
+<img src="https://img.shields.io/badge/GoLang-00aed8.svg?&logo=go&logoColor=white&style=flat&style=plastic" height="25" />
+<img src="https://img.shields.io/badge/React-20232A.svg?&logo=react&logoColor=61DAFB&style=flat&style=plastic" height="25"/>
 </p>
 <br>
 <h2 align="start">🐍 My snake repo game 🐍</h2>
