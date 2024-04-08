@@ -18,21 +18,18 @@ My name is Hytalo. This is my current profile on GitHub.
 <h2 align="start"> 💻 Bests skills </h2>
 <p align="justify">
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black&style=flat&style=plastic" height="25"/>
-
 <img src="https://img.shields.io/badge/-TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat&style=plastic" height="25"/>
-
 <img src="https://img.shields.io/badge/-Angular-D6002F?logo=angular&logoColor=white&style=flat&style=plastic" height="25"/>
-
 <img src="https://img.shields.io/badge/Ionic-4586F7.svg?&logo=ionic&logoColor=white&style=flat&style=plastic" height="25"/>
-
 <img src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white&style=plastic" height="25"/>
-
-
+<img src="https://img.shields.io/badge/docker-00aed8.svg?&logo=docker&logoColor=white&style=flat&style=plastic" height="25" />
+<img src="https://img.shields.io/badge/aws-2C3543.svg?&logo=amazonaws&logoColor=orange&style=flat&style=plastic" height="25" />
 <img src="https://img.shields.io/badge/-HTML5-F16529?logo=html5&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-CSS3-00BFFF?logo=css3&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/Sass-C76494.svg?&logo=sass&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-MySQL-blue?&logo=mysql&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-white.svg?&logo=mongodb&logoColor=green&style=flat&style=plastic" height="25"/>
+<img src="https://img.shields.io/badge/redis-F0F0F0.svg?&logo=redis&logoColor=red&style=flat&style=plastic" height="25" />
 </p>
 <br>
 <h2>📖 Studying</h2>
